@@ -4,6 +4,10 @@
 
 - Refer to the following link. Discuss how Merge-sort works:
   https://opendsa-server.cs.vt.edu/OpenDSA/AV/Sorting/mergesortAV.html
+
+Ans:
+  - Merge sort is a sorting algorithm that works by dividing an array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array.
+
 - Merge-sort Practice. Refer to the following link. Merge the two sub-arrays into the larger array.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Sorting/MergesortMergePRO.html
 
